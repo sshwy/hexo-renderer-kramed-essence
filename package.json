@@ -6,8 +6,7 @@
   "main": "index",
   "license": "GPL-3.0-or-later",
   "scripts": {
-    "test": "exit 0",
-    "bench": "node test --bench"
+    "test": "exit 0"
   },
   "directories": {
     "lib": "lib"
