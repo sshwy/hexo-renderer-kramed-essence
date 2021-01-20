@@ -1,0 +1,35 @@
+{
+  "name": "hexo-renderer-kramed-essence",
+  "description": "Markdown renderer plugin for Hexo with kramed-essence engine",
+  "author": "Sshwy",
+  "version": "1.0.0",
+  "main": "index",
+  "license": "GPL-3.0-or-later",
+  "scripts": {
+    "test": "exit 0",
+    "bench": "node test --bench"
+  },
+  "directories": {
+    "lib": "lib"
+  },
+  "keywords": [
+    "kramed",
+    "markdown",
+    "essence"
+  ],
+  "devDependencies": {
+    "cz-conventional-changelog": "^3.3.0",
+    "eslint": "^7.18.0"
+  },
+  "config": {
+    "commitizen": {
+      "path": "./node_modules/cz-conventional-changelog"
+    }
+  },
+  "dependencies": {
+    "hexo-util": "^2.4.0",
+    "kramed-essence": "^1.0.0",
+    "object-assign": "^4.1.1",
+    "strip-indent": "^3.0.0"
+  }
+}
