@@ -2,7 +2,7 @@
   "name": "hexo-renderer-kramed-essence",
   "description": "Markdown renderer plugin for Hexo with kramed-essence engine",
   "author": "Sshwy",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "index",
   "license": "GPL-3.0-or-later",
   "scripts": {
@@ -27,7 +27,7 @@
   },
   "dependencies": {
     "hexo-util": "^2.4.0",
-    "kramed-essence": "^1.0.1",
+    "kramed-essence": "^1.1.0",
     "object-assign": "^4.1.1",
     "strip-indent": "^3.0.0"
   }
