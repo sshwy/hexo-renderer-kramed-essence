@@ -1,6 +1,9 @@
 # hexo-renderer-kramed-essence
 
-This plugin uses [kramed-essence] but not [marked] nor [kramed] as render engine, it is a fork of [hexo-renderer-kramed](https://github.com/GitbookIO/kramed). You need to uninstall hexo-renderer-marked or hexo-renderer-kramed to avoid conflicts.
+[![GitHub license](https://img.shields.io/github/license/sshwy/hexo-renderer-kramed-essence)](https://github.com/sshwy/hexo-renderer-kramed-essence/blob/main/LICENSE) [![npm](https://img.shields.io/npm/v/hexo-renderer-kramed-essence)](https://www.npmjs.com/package/hexo-renderer-kramed-essence)
+
+
+This plugin uses [kramed-essence][kramed-essence] but not [marked][marked] nor [kramed][kramed] as render engine, it is a fork of [hexo-renderer-kramed](https://github.com/GitbookIO/kramed). You need to uninstall hexo-renderer-marked or hexo-renderer-kramed to avoid conflicts.
 
 ## Why use kramed-essence?
 
