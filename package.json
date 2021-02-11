@@ -18,7 +18,7 @@
   ],
   "devDependencies": {
     "cz-conventional-changelog": "^3.3.0",
-    "eslint": "^7.18.0"
+    "eslint": "^7.19.0"
   },
   "config": {
     "commitizen": {
@@ -27,7 +27,7 @@
   },
   "dependencies": {
     "hexo-util": "^2.4.0",
-    "kramed-essence": "^1.1.0",
+    "kramed-essence": "^1.1.1",
     "object-assign": "^4.1.1",
     "strip-indent": "^3.0.0"
   }
